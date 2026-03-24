@@ -1,0 +1,10 @@
+node_modules
+dist
+.DS_Store
+.idea
+*.iml
+.venv-tfjs
+
+ml_training/data/raw/
+ml_training/data/processed/
+ml_training/models/
